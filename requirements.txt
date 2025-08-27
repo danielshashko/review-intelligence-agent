@@ -1,0 +1,6 @@
+crewai-tools[mcp]
+crewai
+mcp
+python-dotenv
+pandas
+textblob
